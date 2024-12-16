@@ -24,4 +24,4 @@ A simple Simon game built with HTML, CSS, and JavaScript where the player follow
 
 ### 1. Clone the repository
 You can clone this repository to your local machine by running the following command:
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/JamalChemlalDEV/simon-game
